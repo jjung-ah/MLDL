@@ -1,4 +1,4 @@
-# model_study
+# model_algorithm
 
 #### 참고 블로그(코드)
 https://wikidocs.net/60324
