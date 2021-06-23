@@ -2,4 +2,4 @@
 
 ### 1. MLDL_basic
 
-### 2. MLDL_algoritms
+### 2. MLDL_algoritm
